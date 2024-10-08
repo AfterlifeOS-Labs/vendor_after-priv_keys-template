@@ -1,7 +1,10 @@
 bluetooth
+cts_uicc_2021
 cyngn-app
 media
+nfc
 networkstack
+otakey
 platform
 releasekey
 sdk_sandbox
